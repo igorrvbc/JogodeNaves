@@ -3,7 +3,7 @@
 Jogo desenvolvido durante o Bootcamp Órbi Web Games Developer
 
 Foram utilizados:
-  <u>-html</u>
+  <h1>-html</h1>
   -css
   -javascript
   -jquery
